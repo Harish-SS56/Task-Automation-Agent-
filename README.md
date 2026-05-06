@@ -1,6 +1,9 @@
 
 
-https://github.com/user-attachments/assets/b8e4be18-d60d-4052-afdd-ad5ea81d73c8
+
+
+https://github.com/user-attachments/assets/f7f9927b-9c22-4891-a396-204285867c22
+
 
 ﻿#  Intelligent Task Automation Agent
 
