@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b8e4be18-d60d-4052-afdd-ad5ea81d73c8
+
 ﻿#  Intelligent Task Automation Agent
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
